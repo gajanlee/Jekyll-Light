@@ -6,19 +6,16 @@ paginate_path: page/:num
 gems: [jekyll-paginate]
 
 blog:
-    name:                                                # 博客名称
-    description:                                         # 博客描述
-    title:                                               # 网页标题
-    url:                                                 # 博客地址
+    name: gajanlee                                               # 博客名称
+    description: This is the gajanlee's blog.                                        # 博客描述
+    title: Welcome to gajanlee                                              # 网页标题
+    url: gajanlee.github.io                                                # 博客地址
     duoshuo:                                             # 多说ID
     tongji:                                              # 百度统计ID
     qiniu:                                               # 七牛云地址
 author:
-    name:                                                # 作者名称
-    email:                                               # 邮箱地址
+    name: gajanlee                                               # 作者名称
+    email: lee_jiazh@163.com                                              # 邮箱地址
     weibo:                                               # 微博地址
-    github:                                              # GitHub地址
+    github: https://github.com/gajanlee                                             # GitHub地址
     logo:                                                # logo地址
-    douban:
-        name:                                            # 豆瓣地址名称
-        key:                                             # 豆瓣API Key
