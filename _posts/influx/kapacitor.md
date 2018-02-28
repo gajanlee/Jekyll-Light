@@ -1,7 +1,7 @@
 ---
 layout : life
 title: kapacitor——可编辑脚本的自动报警程序
-category : influxdb
+category : influx
 duoshuo: true
 date : 2018-11-27
 ---

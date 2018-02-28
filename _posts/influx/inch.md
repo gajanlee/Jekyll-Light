@@ -1,7 +1,7 @@
 ---
 layout : life
 title: inch——influxdb测试工具
-category : influxdb
+category : influx
 duoshuo: true
 date : 2017-11-08
 ---

@@ -1,7 +1,7 @@
 ---
 layout : life
 title: influxdb——时间序列数据库
-category : influxdb
+category : influx
 duoshuo: true
 date : 2017-11-30
 ---
