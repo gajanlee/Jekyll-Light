@@ -16,7 +16,7 @@ date : 2018-02-20
 ```
 
 2. 针对移动网页优化
-```html
+```
 <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
 ```
 
@@ -51,7 +51,7 @@ date : 2018-02-20
 
 9. media
 * 嵌入一个内容
-```html
+```
 <div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://xxx.com"></iframe>
     <!-- <embed> <video> <object>-->
