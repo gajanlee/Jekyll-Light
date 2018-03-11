@@ -3,7 +3,7 @@ layout : life
 title: kapacitor——可编辑脚本的自动报警程序
 category : influx
 duoshuo: true
-date : 2018-11-27
+date : 2017-11-27
 ---
 
 # Kapacitor写TICKscript

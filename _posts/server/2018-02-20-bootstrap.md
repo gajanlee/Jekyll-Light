@@ -16,9 +16,7 @@ date : 2018-02-20
 ```
 
 2. 针对移动网页优化
-```
-<meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
-```
+* <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
 
 3. bootstrap grid
 * pull-sm-5, push-sm-7, 在小屏幕下，左移5个，右移7个grid。
@@ -51,7 +49,7 @@ date : 2018-02-20
 
 9. media
 * 嵌入一个内容
-```
+```go
 <div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://xxx.com"></iframe>
     <!-- <embed> <video> <object>-->
