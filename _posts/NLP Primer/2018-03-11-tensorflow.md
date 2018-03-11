@@ -1,4 +1,12 @@
- # Tensorflow note
+---
+layout : life
+title: Tensorflow Knowledge
+category : NLP Primer
+duoshuo: true
+date : 2018-03-11
+---
+
+# Tensorflow note
 
 ## 基本用法
 * 起始节点
